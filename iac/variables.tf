@@ -12,3 +12,4 @@ variable "numero_conta" {
     default = "761507219397"
   
 }
+
